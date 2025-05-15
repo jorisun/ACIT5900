@@ -9,9 +9,9 @@ High-precision simulation of quantum annealing using Imaginary Time Evolution (I
 - [Installation](#installation)
 - [Theoretical Background](#theoretical-background)
 - [Implementation Details](#implementation-details)
-- [Key Features](#key_features)
-- [Simulation Workflow](#simulation_workflow)
-- [Numerical Parameters](#numerical_parameters)
+- [Key Features](#key-features)
+- [Simulation Workflow](#simulation-workflow)
+- [Numerical Parameters](#numerical-parameters)
 - [Visualization](#visualization)
 
 ---
