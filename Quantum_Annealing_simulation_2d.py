@@ -5,9 +5,6 @@ Date: 2025-03-09
 
 import numpy as np
 from scipy.linalg import expm
-import matplotlib.pyplot as plt
-import time
-import os
 
 # Configuration parameters
 class SimulationConfig:
